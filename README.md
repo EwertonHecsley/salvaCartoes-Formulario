@@ -4,7 +4,7 @@
 
 <hr>
 
-Mini projeto criado para fixação de exercícios de componentes com estado controlados!
+Mini projeto criado para fixação de exercícios de componentes com estado controlado!
 
 <hr>
 
